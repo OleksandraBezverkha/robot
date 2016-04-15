@@ -1,0 +1,26 @@
+.robot{height:50px;width:50px;background-color: #ecff59;position:absolute;}
+/*.field{height:800px;width:1000px;background-color: brown; }*/
+/*.park{height:400px;width:400px;background-color: lawngreen;}*/
+/*.walk1{height:100px;width:400px;background-color: #d3a86e;}*/
+/*.walk2{height:100px;width:400px;background-color: #d3a86e;}*/
+/*.road1{height:200px;width:400px;background-color: #160505;}*/
+/*.road2{height:800px;width:200px;background-color: #160505;position:absolute;left:408px;}*/
+/*!*.cross{height:15%;width:15%;background-color: rgba(255,255,255,0.5);margin-left: 50px;;position: fixed}*!*/
+/*.zone{left:608px;position: fixed;top:8px;}*/
+table{background-color: red;width:1300px;height:900px;}
+td{height:50px;width:50px;background-color: #3b0437
+}
+.park{background-color: #13f414; }
+.walk{background-color: #ebdb86;}
+.cross{background-color: white;}
+/*.walk2{background-color: red;}*/
+/*.walk4{background-color: red;}*/
+.red,.yellow,.green{border-radius: 50%;width: 30px;height:30px;margin-bottom:5px;display:table;}
+.red{background-color: #ffbcad;}
+.yellow{background-color: #fffc9b;}
+.green{background-color: #b3ff9e;}
+.light{top: 350px;position: absolute;left:250px;}
+p{color: white;font-size: 60%;text-align:center;vertical-align: middle;
+}
+body{background-color: #23678a
+}
