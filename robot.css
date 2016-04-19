@@ -1,4 +1,4 @@
-.robot{background-color: #ecff59;position:absolute;}
+.robot{background-image: url("robot2.png");position:absolute;}
 /*.field{height:800px;width:1000px;background-color: brown; }*/
 /*.park{height:400px;width:400px;background-color: lawngreen;}*/
 /*.walk1{height:100px;width:400px;background-color: #d3a86e;}*/
@@ -11,7 +11,7 @@
 td{height:50px;width:50px;}
 .park{background-color: #13f414;background-image: url("http://pomoshcnik.ru/upload/resize_cache/iblock/9ee/50_50_1/9ee3d3108b641c9db22679b7711c0832.jpg"); }
 .walk{background-color: #ebdb86;}
-.cross{background-color: white;}
+.cross1,.cross2{background-color: white;}
 .road{background-color: #5e5e5e;}
 /*.walk2{background-color: red;}*/
 /*.walk4{background-color: red;}*/
@@ -19,7 +19,10 @@ td{height:50px;width:50px;}
 .red{background-color: #ffbcad;}
 .yellow{background-color: #fffc9b;}
 .green{background-color: #b3ff9e;}
-.light{top: 350px;position: absolute;left:250px;}
+.light1{top: 350px;position: absolute;left:250px;}
+.light2{top: 350px;position: absolute;left:650px;}
+.light3{top: 200px;position: absolute;left:450px;}
+.light4{top: 500px;position: absolute;left:450px;}
 p{color: white;font-size: 60%;text-align:center;vertical-align: middle;
 }
 body{background-color: #23678a
